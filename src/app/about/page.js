@@ -1,8 +1,8 @@
+
 export default function About() {
-    return (
-      <main>
-        About page
-      </main>
-    )
-  }
-  
+  return (
+    <main>
+      About page
+    </main>
+  )
+}
